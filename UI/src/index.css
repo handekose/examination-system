@@ -1,0 +1,39 @@
+.mr-auto, .mx-auto {
+    margin-right: 0!important;
+}
+div.react-datepicker-wrapper input{
+    height: 38px;
+    font-size: 14px;
+}
+.exam-detail-title{
+    text-align: center;
+    letter-spacing: 2px;
+    margin: auto
+}
+
+.queDetail{
+    text-align: center;
+    letter-spacing: 2px;
+    margin: auto
+}
+
+.button-question-delete{
+    position: absolute;
+    z-index: 1;
+    right: 5px;
+    top: 20px;
+}
+
+.cardStyle{
+    margin: "auto"; 
+    margin-top: "2rem" ;
+}
+.question > div.input-group{
+    width: 95%;
+}
+
+.card .card-header {
+    padding: 15px 15px;
+    background-color: #FFFFFF;
+    border-bottom: none !important;
+}
